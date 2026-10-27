@@ -1,5 +1,5 @@
 
-const API = "http://localhost:5000";
+const API = "https://leave-management-backend-xejz.onrender.com";
 
 const form = document.getElementById("leaveForm");
 
